@@ -66,7 +66,7 @@
 
         let filterDiv = $("#btn-group-mission-select");
         let html = `<br><br>
-                    <span>Zu verdienen: <span id='remCredits'>0 / 0</span> Credits</span>
+                    <span>Câștiga: <span id='remCredits'>0 / 0</span> Credite</span>
                     `;
         let filterBtns = filterDiv.append(html);
 
